@@ -4,7 +4,7 @@ print("Ingrese un color: ")
 
 colores = ("rojo", "azul", "verde", "amarillo",
            "purpura", "lila", "naranja", "celeste", "rosa",
-           "fucsia", "violeta", "blanco", "negro", "gris", "beige",
+           "fucsia", "violeta", "blanco", "negro", "gris",
            "dorado", "plateado", "turquesa")
 
 palabra = random.choice(colores)
