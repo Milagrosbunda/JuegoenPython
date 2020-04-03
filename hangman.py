@@ -60,4 +60,4 @@ if guess != palabra:
     print("|     -|-")
     print("|_    / \ ")
 
-    print("Te has quedado son intentos, la palabra era: " + palabra)
+    print("Te has quedado sin intentos, la palabra era: " + palabra)
